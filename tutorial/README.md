@@ -24,6 +24,5 @@ Each notebook is designed to be self-contained.
 | `05 - Power and Energy Analysis` | Energy | Mission segment power and energy calculations |
 | `06 - Aerodynamics` | Aero | Drag buildup, lift-to-drag ratio, and Reynolds number |
 | `07 - Propulsion and Battery` | Propulsion | Rotor sizing, battery modeling, and EPU estimation |
-| `08 - Autonomous Battery Units` | ABU | The ABU concept for range extension and flight economics |
-| `09 - Archer Midnight Sizing` | Case Study | Sizing the Archer Midnight across mission ranges and altitudes |
-| `10 - Miscellaneous` | Advanced | Comparative studies, sensitivity analysis, and custom configurations |
+| `08 - Archer Midnight Sizing` | Case Study | Sizing the Archer Midnight across mission ranges and altitudes |
+| `09 - Miscellaneous` | Advanced | Comparative studies, sensitivity analysis, and custom configurations |
