@@ -1,12 +1,11 @@
 # evtolpy Tutorials
 
-These tutorials walk through the `evtolpy` framework for eVTOL aircraft conceptual design, sizing, and performance analysis. All tutorials use the **Archer Midnight** as the reference vehicle (30-mile mission at 1,500 ft cruise altitude unless otherwise noted).
-
+These tutorials walk through the `evtolpy` framework for eVTOL aircraft conceptual design, sizing, and performance analysis. All tutorials use the **Archer Midnight** as the reference vehicle.
 ## How to Use
 
 Work through the folders and notebooks in ascending order. Each folder focuses on a specific topic and contains Jupyter notebooks that build on previous concepts. Read any `README.md` files within each folder before proceeding.
 
-Each notebook is designed to be self-contained and takes approximately 5 minutes to work through.
+Each notebook is designed to be self-contained.
 
 ## Prerequisites
 
